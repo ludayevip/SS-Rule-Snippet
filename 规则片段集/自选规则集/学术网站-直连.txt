@@ -36,6 +36,6 @@ DOMAIN-KEYWORD,elsevier,DIRECT
 DOMAIN-KEYWORD,deepdyve,DIRECT
 DOMAIN-KEYWORD,els-cdn,DIRECT
 
-## 告别出版商绑架
-DOMAIN-KEYWORD,sci-hub,Proxy
+## Oxford 出版系列
+DOMAIN-SUFFIX,oup.com,Proxy
 
